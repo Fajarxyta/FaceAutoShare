@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="Data/Sharing.png">
   <br>
   <h4> Dapatkan Share Tanpa Batas Di Facebook Hanya Menggunakan Termux ! </h4>
 </div>
