@@ -1,2 +1,0 @@
-# FaceAutoShare
-Facebook Auto Share 
