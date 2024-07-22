@@ -5,8 +5,8 @@
 
 ##
 
-### What is Sharing?
-[**Sharing**](https://github.com/Fajarxyta/FaceAutoShare) adalah script untuk mendapatkan banyak share pada postingan Facebook secara massal atau spam. Skrip ini menggunakan cookie halaman untuk login dan berbagi postingan.
+### Apa itu Berbagi?
+[**FaceAutoShare**](https://github.com/Fajarxyta/FaceAutoShare) adalah script untuk mendapatkan banyak share pada postingan Facebook secara massal atau spam. Skrip ini menggunakan cookie halaman untuk login dan berbagi postingan.
 
 Unduh [Termux](https://f-droid.org/repo/com.termux_118.apk) aplikasi lalu masukkan semua perintah di aplikasi Termux.
 ```
