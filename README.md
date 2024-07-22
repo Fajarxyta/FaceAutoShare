@@ -10,17 +10,17 @@
 
 Unduh [Termux](https://f-droid.org/repo/com.termux_118.apk) aplikasi lalu masukkan semua perintah di aplikasi Termux.
 ```
-$ apt update -y && apt upgrade -y
-$ pkg install git python-pip
-$ git clone https://github.com/Fajarxyta/FaceAutoShare
-$ cd "FaceAutoShare"
-$ python -m pip install -r requirements.txt
-$ python Run.py
+apt update -y && apt upgrade -y
+pkg install git python-pip
+git clone https://github.com/Fajarxyta/FaceAutoShare
+cd "FaceAutoShare"
+python -m pip install -r requirements.txt
+python Run.py
 ```
 
 ```
-$ cd "$HOME/FaceAutoShare" && git pul
-$ python Run.py
+cd "$HOME/FaceAutoShare" && git pul
+python Run.py
 ```
 
 ### Persyaratan untuk masuk?
